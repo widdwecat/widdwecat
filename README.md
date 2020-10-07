@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there! I like MC Modding and Lua. Here's a few projects I'm working on!
+https://github.com/widdwecat/PythonClient
+https://github.com/widdwecat/roblox-scripts (Private for now)
+
 
 <!--
 **widdwecat/widdwecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
