@@ -1,10 +1,12 @@
 ### Hi there! I'm widdwecat. I like MC Modding and Lua. Here's a few projects I'm working on!
 
 ![image title](https://rushter.com/counter.svg)
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
 
 https://github.com/widdwecat/PythonClient                
 https://github.com/widdwecat/roblox-scripts (Private for now)
 
+How to reach me:
 Discord: widdwecat#9338
 
 
